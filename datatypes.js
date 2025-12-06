@@ -1,3 +1,4 @@
+// Edited from Github
 /* Declaring variables in JS
 let name = "Akshay";
 let age = 23;
