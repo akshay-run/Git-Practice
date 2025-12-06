@@ -1,3 +1,4 @@
+// this is separate branch
 // This change is from feature-day2 branch
 // Edited from Github
 /* Declaring variables in JS
