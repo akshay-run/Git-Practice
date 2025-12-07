@@ -91,4 +91,8 @@ str = "Mohan"
 str[0] = 'R'
 console.log(str)
 
+<<<<<<< HEAD:datatypes.js
 
+=======
+//dummy line
+>>>>>>> f9957bfe0806c056c8476e04a544a3919c20d3e4:01-datatypes.js
