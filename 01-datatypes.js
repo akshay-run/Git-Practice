@@ -1,3 +1,4 @@
+// this is separate branch
 // This change is from feature-day2 branch
 // Edited from Github
 /* Declaring variables in JS
@@ -54,6 +55,7 @@ console.log(id1)
 
 
 //Non primitive data type: array, object, function
+// non primitive datatyps are imutable, because if this also makes new memory block then this will consume big memory
 
 //array
 let arr = [22, 90, 11, 'Rohit', true]
@@ -85,7 +87,12 @@ console.log(typeof(null))
 let str = "Shame"
 str = "Mohan"
 
+// this is proves primitive datatypes are immutable
 str[0] = 'R'
 console.log(str)
 
+<<<<<<< HEAD:datatypes.js
+
+=======
 //dummy line
+>>>>>>> f9957bfe0806c056c8476e04a544a3919c20d3e4:01-datatypes.js
